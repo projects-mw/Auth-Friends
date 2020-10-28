@@ -72,3 +72,9 @@ Topics:
 
 ## Submission Format
 * [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+
+## recordings
+
+[dustin myers](https://youtu.be/iFUwQgZq85E)
+[jason maurer](https://youtu.be/vhuYtM9rp34)
+[keiran](https://youtu.be/1pu-MlQXcNU)
